@@ -1,0 +1,14 @@
+.ionide.debug
+*.svclog
+.DS_Store
+paket.exe
+output
+packages
+paket-files
+TestResult.xml
+*.publishsettings
+credentials.fsx
+.fake
+node_modules
+obj
+bin
