@@ -1,7 +1,6 @@
 .ionide.debug
 *.svclog
 .DS_Store
-paket.exe
 output
 packages
 paket-files
